@@ -116,7 +116,7 @@ No sunk-cost fallacy.
 
 ## Reference Implementations
 
-TBD
+[bman-dev-agent](https://github.com/bman-method/bman-dev-agent)
 
 ---
 
